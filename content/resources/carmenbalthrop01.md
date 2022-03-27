@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 93231b61-a4c0-7ec9-5a0b-a1fd6c5799de
 resourcetype: Document
 title: carmenbalthrop01.pdf
 uid: 0b6e98b7-0494-6735-b5e0-0427831d885d

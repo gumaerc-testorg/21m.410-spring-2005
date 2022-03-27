@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 93231b61-a4c0-7ec9-5a0b-a1fd6c5799de
 resourcetype: Document
 title: white_01.pdf
 uid: 90ecdc14-f75a-770a-47e1-e449786380da

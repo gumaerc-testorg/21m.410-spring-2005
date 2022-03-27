@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 93231b61-a4c0-7ec9-5a0b-a1fd6c5799de
 resourcetype: Document
 title: program_notes.pdf
 uid: 4e38f889-49f2-375f-246b-d82e6ddc0c0d
