@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the works of African American composers and concert
+  artists.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Repertoire List

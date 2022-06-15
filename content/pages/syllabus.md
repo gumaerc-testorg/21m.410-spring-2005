@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The syllabus contains an overview on course content and requirments.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
