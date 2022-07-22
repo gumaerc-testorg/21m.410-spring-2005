@@ -6,6 +6,7 @@ file: /courses/21m-410-vocal-repertoire-and-performance-african-american-compose
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: carmenbalthrop01.pdf
 uid: 0b6e98b7-0494-6735-b5e0-0427831d885d
 ---
 This resource includes information on report on Ms. Carmen Balthrop By Anne A. Dreyer.
-

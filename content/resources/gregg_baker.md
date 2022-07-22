@@ -5,6 +5,7 @@ file: /courses/21m-410-vocal-repertoire-and-performance-african-american-compose
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: gregg_baker.pdf
 uid: 6b26206e-af96-d566-9417-00dbeecd8d92
 ---
 This resource includes a biography of Gregg Baker.
-

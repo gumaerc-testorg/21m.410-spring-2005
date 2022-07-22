@@ -6,6 +6,7 @@ file: /courses/21m-410-vocal-repertoire-and-performance-african-american-compose
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: carmenbalthrop02.pdf
 uid: e1ebfab5-0a13-42f0-c01c-46668eecbffe
 ---
 This resource includes a report on Carmen Balthrop including a note on Scott Jopin's Treemonisha.
-
