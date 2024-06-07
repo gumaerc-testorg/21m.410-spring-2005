@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21m-410-vocal-repertoire-and-performance-african-american-composers-spring-2005/90ecdc14f75a770a47e1e449786380da_white_01.pdf
+file_size: 34347
 file_type: application/pdf
 learning_resource_types:
 - Assignments
