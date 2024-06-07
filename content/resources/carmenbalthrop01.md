@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes information on report on Ms. Carmen Balthrop By
   Anne A. Dreyer.
 file: /courses/21m-410-vocal-repertoire-and-performance-african-american-composers-spring-2005/0b6e98b704946735b5e00427831d885d_carmenbalthrop01.pdf
+file_size: 22703
 file_type: application/pdf
 learning_resource_types:
 - Assignments
