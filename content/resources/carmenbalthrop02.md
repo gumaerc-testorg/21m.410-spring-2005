@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes a report on Carmen Balthrop including a note on
   Scott Jopin's Treemonisha.
-file: /ol-ocw-studio-app/courses/21m-410-vocal-repertoire-and-performance-african-american-composers-spring-2005/e1ebfab50a1342f0c01c46668eecbffe_carmenbalthrop02.pdf
+file: /courses/21m-410-vocal-repertoire-and-performance-african-american-composers-spring-2005/e1ebfab50a1342f0c01c46668eecbffe_carmenbalthrop02.pdf
 file_size: 175186
 file_type: application/pdf
 learning_resource_types:
