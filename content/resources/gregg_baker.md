@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes a biography of Gregg Baker.
-file: /ol-ocw-studio-app/courses/21m-410-vocal-repertoire-and-performance-african-american-composers-spring-2005/6b26206eaf96d566941700dbeecd8d92_gregg_baker.pdf
+file: /courses/21m-410-vocal-repertoire-and-performance-african-american-composers-spring-2005/6b26206eaf96d566941700dbeecd8d92_gregg_baker.pdf
 file_size: 76983
 file_type: application/pdf
 learning_resource_types:
