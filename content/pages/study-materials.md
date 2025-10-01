@@ -46,28 +46,28 @@ Jopin, Scott. _Treemonisha_. Houston Grand Opera. W. Long Branch, NJ: Kultur, 19
 Web sites
 ---------
 
-[The African American Art Song Alliance](http://www.darryltaylor.com/alliance/)
+{{% resource_link "e9413da7-11d0-4876-badd-0c4a4d1b82d4" "The African American Art Song Alliance" %}}
 
-[Afrocentric Voices](http://afrovoices.com/)
+{{% resource_link "f7ec9140-e8c7-44ac-b56f-9a911aedd565" "Afrocentric Voices" %}}
 
-[H. T. Burleigh](http://afrovoices.com/burleigh.html)
+{{% resource_link "5bf63363-7e49-49c3-8e37-2f6f83eaee32" "H. T. Burleigh" %}}
 
-[Yiu-kwong Chung](http://www.cykusic.com/Ebio%20flash.htm)
+{{% resource_link "a486d9d3-bc7c-495f-b1d3-3f55141ea45e" "Yiu-kwong Chung" %}}
 
-[George & Ira Gershwin](http://gershwin.com/)
+{{% resource_link "228d8bd5-1eaf-4196-a588-f202e16adf7c" "George & Ira Gershwin" %}}
 
-[Jacqueline Hairston](https://www.newmusicusa.org/profile/jhairs/)
+{{% resource_link "9d42eb85-8c7b-44b3-9f0c-38058db8a910" "Jacqueline Hairston" %}}
 
-[Langston Hughes](http://www.poets.org/poet.php/prmPID/83)
+{{% resource_link "22ffb5d2-4dea-4314-bbde-ce6e0d63d5c0" "Langston Hughes" %}}
 
-[Hall Johnson](http://afrovoices.com/hjohnson.html)
+{{% resource_link "eb1fb9fc-4f90-4e0b-a81f-2d72c4dc68cd" "Hall Johnson" %}}
 
-[Paul Robeson](http://www.pbs.org/wnet/americanmasters/paul-robeson-about-the-actor/66/)
+{{% resource_link "3bf3100e-e972-4a0c-ae8d-0f6683654eee" "Paul Robeson" %}}
 
-[William Grant Still](http://williamgrantstill.com/)
+{{% resource_link "07fc2987-16db-4254-aa81-f63a24d5414f" "William Grant Still" %}}
 
-[John W. Work, III](http://www.tnstate.edu/library/digital/work.htm)
+{{% resource_link "0092c6ba-ebbb-407e-8100-70301394ec25" "John W. Work, III" %}}
 
-[Interview with Mrs. John Work](https://web.archive.org/web/20101129031810/http://www.umich.edu/~afroammu/standifer/work.html)
+{{% resource_link "05fde4e0-a30b-48d0-8c6a-d8540e3f3cf0" "Interview with Mrs. John Work" %}}
 
-[Xu Zhimo](http://www.britannica.com/EBchecked/topic/273976/Xu-Zhimo)
+{{% resource_link "815102ca-322a-40e4-b8ba-15038e83a58f" "Xu Zhimo" %}}
